@@ -3,4 +3,4 @@ The company i work for wants to create original video content and they have deci
 ## Methodology
 This project will be accomplished Using two datasets which are the Tmdb Movie and bom_movie gross dataset in which I will use Data cleaning process towards each individual dataset and then merge them together and use data cleaning processes, data visulization techniques, recommendations and conclusion in order to achieve the Objective. I have 3 Pdfs which contain a presentation, a dashboard and the coding.
 ## AAA Movie Dashboard
-
+https://github.com/Smwangi1/Project-Movie-Studio/blob/main/AAA%20Movie%20Studio%20Dashboard.pdf
