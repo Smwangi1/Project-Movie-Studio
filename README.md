@@ -6,3 +6,6 @@ This project will be accomplished Using two datasets which are the Tmdb Movie an
 https://github.com/Smwangi1/Project-Movie-Studio/blob/main/AAA%20Movie%20Studio%20Dashboard.pdf
 ### Phase 2 Notebook pdf
 https://github.com/Smwangi1/Project-Movie-Studio/blob/main/Phase%202%20Notebook.pdf
+### Presentation Pdf
+https://github.com/Smwangi1/Project-Movie-Studio/blob/main/Presentation.pdf
+
